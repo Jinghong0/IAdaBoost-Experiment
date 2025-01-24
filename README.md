@@ -5,6 +5,10 @@ IAdaBoost is an improved method for addressing class imbalance in machine learni
 
 After performing hyperparameter optimization, the model is evaluated based on the G-Mean metric. The evaluation results are from 10 random experiments on the test dataset.
 
+```sh
+python IAdaBoost.py
+```
+
 Requirements
 All experiments were performed on a desktop computer with the following configuration:
 
